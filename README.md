@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭  I’m currently working on something cool 😉
+🌱  I’m currently learning Java,Vue3
+💬  Ask me about anything related to Java/Vue2,3/MySQL....
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belongwithme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belongwithme&show_icons=true&theme=tokyonight)
