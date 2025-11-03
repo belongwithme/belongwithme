@@ -8,9 +8,8 @@ This is the place where I opensource stuff and break things 🤣
 😄 The programming languages ​​I often use:  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belongwithme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-🔭 My submission activity this year:  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belongwithme&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
+🔭 My submission activity:  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=belongwithme&theme=tokyonight)
 
 📕  Latest Blog Posts  
 1. [并发容器（二）：Concurrent类下的ConcurrentHashMap源码级解析](https://blog.csdn.net/qq_45852626/article/details/126124080?spm=1001.2014.3001.5502)
