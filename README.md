@@ -6,10 +6,7 @@ This is the place where I opensource stuff and break things 🤣
 💬  Ask me about anything related to Java/Vue2,3/MySQL....  
 
 😄 The programming languages ​​I often use:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belongwithme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-
-🔭 My submission activity:  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=belongwithme&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belongwithme&layout=compact)]
 
 📕  My Blog Address  
 [CSDN博客-欢迎踩一踩](https://blog.csdn.net/qq_45852626?spm=1000.2115.3001.5343)  
